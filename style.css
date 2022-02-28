@@ -1,0 +1,51 @@
+body {
+    background-color: #ffebcd;
+}
+
+h1 {
+    color:#556b2f;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    color:#556b2f;
+    text-align: center;
+}
+
+h4 {
+    color:#556b2f;
+    text-align: center;
+}
+
+p {
+    color:#556b2f;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    padding-left: 0;
+}
+
+ol {
+    text-align: left;
+    list-style-position: inside;
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    color:#556b2f;
+}
+
+a {
+    color:#556b2f;
+    text-decoration: none;
+}
+
+a:hover {
+    color:black;
+}
